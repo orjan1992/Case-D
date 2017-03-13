@@ -1,9 +1,9 @@
 close, clear
-eta_0 = [1.95 0.05 0]';
+eta_0 = [6 5 0]';
 s_0 = 0;
 eta_d_0 = [2 0 0]';
 eta_d_1 = [10 4 0]';
-U_ref = 0.5;
+U_ref = 0.6/5;
 sim task4.slx
 
 
